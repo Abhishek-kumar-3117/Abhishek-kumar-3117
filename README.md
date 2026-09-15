@@ -2,22 +2,7 @@
 
 ### 💻 B.Tech CSE Student | Aspiring Software Engineer | MERN Stack Developer
 
-I'm a **B.Tech Computer Science Engineering student** passionate about programming, web development, problem-solving, and learning new technologies.
-
-I enjoy building projects, improving my coding skills, and exploring modern technologies to become a better **Software Engineer**.
-
----
-
-## 🚀 About Me
-
-- 🎓 B.Tech Computer Science Engineering Student
-- 💻 Interested in Software Development & Full-Stack Web Development
-- 🌐 Currently focusing on **MERN Stack Development**
-- 📚 Learning **JavaScript, React.js, Node.js & Backend Development**
-- 🧠 Practicing **DSA & Problem Solving**
-- 🔨 Building projects to improve my practical skills
-- 🎯 Goal: Become a skilled **Software Engineer**
-- ⚡ I believe in learning by building and practicing
+**B.Tech Computer Science Engineering student passionate about software development, web development, and problem-solving. Currently focused on MERN Stack, JavaScript, and DSA while building real-world projects.**
 
 ---
 
@@ -45,7 +30,7 @@ I enjoy building projects, improving my coding skills, and exploring modern tech
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/API-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
 ### 🗄️ Database
@@ -55,7 +40,7 @@ I enjoy building projects, improving my coding skills, and exploring modern tech
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-### 🔧 Tools & Technologies
+### 🔧 Tools
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -67,17 +52,76 @@ I enjoy building projects, improving my coding skills, and exploring modern tech
 
 ## 📚 Currently Learning
 
-```text
-JavaScript
-   ↓
-React.js
-   ↓
-Node.js
-   ↓
-Express.js
-   ↓
-MongoDB
-   ↓
-REST APIs
-   ↓
-MERN Stack Development
+**🚀 MERN Stack Development**
+
+**JavaScript → React.js → Node.js → Express.js → MongoDB → REST APIs**
+
+**Also improving DSA, problem-solving, database concepts, and backend development.**
+
+---
+
+## 💼 Projects
+
+### 🌆 Complaint Management & Smart City Portal
+
+**A web-based project designed to manage citizen complaints and improve communication between citizens and administrators.**
+
+**Tech:** HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB
+
+### 🌐 Full-Stack Web Projects
+
+**Building full-stack applications with user authentication, REST APIs, database integration, and modern React.js interfaces.**
+
+---
+
+## 🎯 Goals
+
+- **🚀 Become proficient in MERN Stack**
+- **🧠 Improve DSA & Problem Solving**
+- **💻 Build real-world projects**
+- **🌐 Deploy full-stack applications**
+- **💼 Prepare for Software Engineering internships/jobs**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhishek-kumar-3117&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-kumar-3117&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Abhishek-kumar-3117&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+
+<a href="mailto:abhisheksingh87880@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/abhishek-kumar3117">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/abhishek_kumar3117/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</p>
+
+
+
+
+### ⭐ Thanks for visiting my profile!
+
+**Happy Coding! 🚀**
